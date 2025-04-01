@@ -42,7 +42,7 @@ Partial Class Form1
     txtInterfaceFilename.Name = "txtInterfaceFilename"
     txtInterfaceFilename.Size = New Size(1081, 31)
     txtInterfaceFilename.TabIndex = 0
-    txtInterfaceFilename.Text = "C:\Users\906074897\Documents\All Projects\BCBS\Interfaces Internal and external to RTMS 2025-04-01.xlsx"
+    txtInterfaceFilename.Text = "C:\Users\906074897\Documents\All Projects\BCBS\Interfaces Internal and external to RTMS 2025-04-01 v0.2.xlsx"
     ' 
     ' txtPumlFolderName
     ' 

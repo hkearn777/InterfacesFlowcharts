@@ -16,3 +16,4 @@ C:\Users\906074897\Documents\Visual Studio 2022\Projects\VS Projects\InterfacesF
 C:\Users\906074897\Documents\Visual Studio 2022\Projects\VS Projects\InterfacesFlowcharts\obj\Debug\net8.0-windows\InterfacesFlowcharts.pdb
 C:\Users\906074897\Documents\Visual Studio 2022\Projects\VS Projects\InterfacesFlowcharts\obj\Debug\net8.0-windows\InterfacesFlowcharts.genruntimeconfig.cache
 C:\Users\906074897\Documents\Visual Studio 2022\Projects\VS Projects\InterfacesFlowcharts\obj\Debug\net8.0-windows\ref\InterfacesFlowcharts.dll
+C:\Users\906074897\Documents\Visual Studio 2022\Projects\VS Projects\InterfacesFlowcharts\obj\Debug\net8.0-windows\InterfacesFlowcharts.sourcelink.json
